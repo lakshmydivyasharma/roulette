@@ -1,6 +1,6 @@
 # roulette
 
-![Roulette](public/thumbnail.png)
+![Roulette](thumbnail.png)
 
 ## Languages Used:
 ### HTML, CSS, JS, Node, EJS
